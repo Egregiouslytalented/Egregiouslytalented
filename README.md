@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Egregiouslytalented
   
-- 🌱 I’m currently learning ..python.
-- 💞️ I’m looking to collaborate on ..Anything interesting.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on Anything interesting.
 - 📫 How to reach me ..instagram - egregiouslytalented.
 
   
